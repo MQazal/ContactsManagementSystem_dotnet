@@ -1,0 +1,6 @@
+C:\Programming_Path\Programming Advices.com\Backend Development Track\Course#18\Contacts Console Project\ContactsProject-DataAccessLayer\bin\Debug\ContactsProject-DataAccessLayer.dll
+C:\Programming_Path\Programming Advices.com\Backend Development Track\Course#18\Contacts Console Project\ContactsProject-DataAccessLayer\bin\Debug\ContactsProject-DataAccessLayer.pdb
+C:\Programming_Path\Programming Advices.com\Backend Development Track\Course#18\Contacts Console Project\ContactsProject-DataAccessLayer\obj\Debug\ContactsProject-DataAccessLayer.csproj.AssemblyReference.cache
+C:\Programming_Path\Programming Advices.com\Backend Development Track\Course#18\Contacts Console Project\ContactsProject-DataAccessLayer\obj\Debug\ContactsProject-DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Programming_Path\Programming Advices.com\Backend Development Track\Course#18\Contacts Console Project\ContactsProject-DataAccessLayer\obj\Debug\ContactsProject-DataAccessLayer.dll
+C:\Programming_Path\Programming Advices.com\Backend Development Track\Course#18\Contacts Console Project\ContactsProject-DataAccessLayer\obj\Debug\ContactsProject-DataAccessLayer.pdb

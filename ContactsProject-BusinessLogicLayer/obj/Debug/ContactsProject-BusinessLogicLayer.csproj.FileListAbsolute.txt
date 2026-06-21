@@ -1,0 +1,9 @@
+C:\Programming_Path\Programming Advices.com\Backend Development Track\Course#18\Contacts Console Project\ContactsProject-BusinessLogicLayer\bin\Debug\ContactsProject-BusinessLogicLayer.dll
+C:\Programming_Path\Programming Advices.com\Backend Development Track\Course#18\Contacts Console Project\ContactsProject-BusinessLogicLayer\bin\Debug\ContactsProject-BusinessLogicLayer.pdb
+C:\Programming_Path\Programming Advices.com\Backend Development Track\Course#18\Contacts Console Project\ContactsProject-BusinessLogicLayer\obj\Debug\ContactsProject-BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Programming_Path\Programming Advices.com\Backend Development Track\Course#18\Contacts Console Project\ContactsProject-BusinessLogicLayer\obj\Debug\ContactsProject-BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Programming_Path\Programming Advices.com\Backend Development Track\Course#18\Contacts Console Project\ContactsProject-BusinessLogicLayer\obj\Debug\ContactsProject-BusinessLogicLayer.dll
+C:\Programming_Path\Programming Advices.com\Backend Development Track\Course#18\Contacts Console Project\ContactsProject-BusinessLogicLayer\obj\Debug\ContactsProject-BusinessLogicLayer.pdb
+C:\Programming_Path\Programming Advices.com\Backend Development Track\Course#18\Contacts Console Project\ContactsProject-BusinessLogicLayer\bin\Debug\ContactsProject-DataAccessLayer.dll
+C:\Programming_Path\Programming Advices.com\Backend Development Track\Course#18\Contacts Console Project\ContactsProject-BusinessLogicLayer\bin\Debug\ContactsProject-DataAccessLayer.pdb
+C:\Programming_Path\Programming Advices.com\Backend Development Track\Course#18\Contacts Console Project\ContactsProject-BusinessLogicLayer\obj\Debug\Contacts.654CFB40.Up2Date
