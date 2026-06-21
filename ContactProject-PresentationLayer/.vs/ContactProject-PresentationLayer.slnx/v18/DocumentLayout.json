@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programming_Path\\Programming Advices.com\\Backend Development Track\\Course#18\\Contacts WinForms Project\\ContactProject-PresentationLayer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98281559-A083-4920-A3A9-53486569F068}|ContactProject-PresentationLayer.csproj|C:\\Programming_Path\\Programming Advices.com\\Backend Development Track\\Course#18\\Contacts WinForms Project\\ContactProject-PresentationLayer\\frmlistallcontacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98281559-A083-4920-A3A9-53486569F068}|ContactProject-PresentationLayer.csproj|solutionrelative:frmlistallcontacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98281559-A083-4920-A3A9-53486569F068}|ContactProject-PresentationLayer.csproj|C:\\Programming_Path\\Programming Advices.com\\Backend Development Track\\Course#18\\Contacts WinForms Project\\ContactProject-PresentationLayer\\frmlistallcontacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98281559-A083-4920-A3A9-53486569F068}|ContactProject-PresentationLayer.csproj|solutionrelative:frmlistallcontacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98281559-A083-4920-A3A9-53486569F068}|ContactProject-PresentationLayer.csproj|C:\\Programming_Path\\Programming Advices.com\\Backend Development Track\\Course#18\\Contacts WinForms Project\\ContactProject-PresentationLayer\\frmadd_updatecontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98281559-A083-4920-A3A9-53486569F068}|ContactProject-PresentationLayer.csproj|solutionrelative:frmadd_updatecontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98281559-A083-4920-A3A9-53486569F068}|ContactProject-PresentationLayer.csproj|c:\\programming_path\\programming advices.com\\backend development track\\course#18\\contacts winforms project\\contactproject-presentationlayer\\frmadd_updatecontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98281559-A083-4920-A3A9-53486569F068}|ContactProject-PresentationLayer.csproj|solutionrelative:frmadd_updatecontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmListAllContacts.cs",
+              "DocumentMoniker": "C:\\Programming_Path\\Programming Advices.com\\Backend Development Track\\Course#18\\Contacts WinForms Project\\ContactProject-PresentationLayer\\frmListAllContacts.cs",
+              "RelativeDocumentMoniker": "frmListAllContacts.cs",
+              "ToolTip": "C:\\Programming_Path\\Programming Advices.com\\Backend Development Track\\Course#18\\Contacts WinForms Project\\ContactProject-PresentationLayer\\frmListAllContacts.cs",
+              "RelativeToolTip": "frmListAllContacts.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAC8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T04:26:35.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmListAllContacts.cs [Design]",
+              "DocumentMoniker": "C:\\Programming_Path\\Programming Advices.com\\Backend Development Track\\Course#18\\Contacts WinForms Project\\ContactProject-PresentationLayer\\frmListAllContacts.cs",
+              "RelativeDocumentMoniker": "frmListAllContacts.cs",
+              "ToolTip": "C:\\Programming_Path\\Programming Advices.com\\Backend Development Track\\Course#18\\Contacts WinForms Project\\ContactProject-PresentationLayer\\frmListAllContacts.cs [Design]",
+              "RelativeToolTip": "frmListAllContacts.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T04:26:31.856Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmAdd_UpdateContact.cs",
+              "DocumentMoniker": "C:\\Programming_Path\\Programming Advices.com\\Backend Development Track\\Course#18\\Contacts WinForms Project\\ContactProject-PresentationLayer\\frmAdd_UpdateContact.cs",
+              "RelativeDocumentMoniker": "frmAdd_UpdateContact.cs",
+              "ToolTip": "C:\\Programming_Path\\Programming Advices.com\\Backend Development Track\\Course#18\\Contacts WinForms Project\\ContactProject-PresentationLayer\\frmAdd_UpdateContact.cs",
+              "RelativeToolTip": "frmAdd_UpdateContact.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T20:13:21.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmAdd_UpdateContact.cs [Design]",
+              "DocumentMoniker": "C:\\Programming_Path\\Programming Advices.com\\Backend Development Track\\Course#18\\Contacts WinForms Project\\ContactProject-PresentationLayer\\frmAdd_UpdateContact.cs",
+              "RelativeDocumentMoniker": "frmAdd_UpdateContact.cs",
+              "ToolTip": "C:\\Programming_Path\\Programming Advices.com\\Backend Development Track\\Course#18\\Contacts WinForms Project\\ContactProject-PresentationLayer\\frmAdd_UpdateContact.cs [Design]",
+              "RelativeToolTip": "frmAdd_UpdateContact.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T20:13:21.03Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
