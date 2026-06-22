@@ -2,8 +2,6 @@
 
 A full desktop built using **C# WinForms**, **ADO.NET**, and **SQL Server** following the **3-Tier Architecture** design pattern.
 
----
-
 ## Features
 
 * Add New Contacts
@@ -16,8 +14,6 @@ A full desktop built using **C# WinForms**, **ADO.NET**, and **SQL Server** foll
 * Clean Layered Architecture
 * SQL Server Database Integration
 
----
-
 ## Technologies Used
 
 * C#
@@ -26,8 +22,6 @@ A full desktop built using **C# WinForms**, **ADO.NET**, and **SQL Server** foll
 * SQL Server
 * .NET Framework
 * 3-Tier Architecture
-
----
 
 ## Project Architecture
 
@@ -44,8 +38,6 @@ Contains business rules and application logic.
 ### 3. Data Access Layer (DAL)
 
 Responsible for database communication using ADO.NET.
-
----
 
 ## Database
 The project uses SQL Server database.
